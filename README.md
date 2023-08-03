@@ -1,5 +1,5 @@
 # Flix++
-Flix++ is a C++ app which offers personalized movie recommendations based on the viewing history of 100,000+ users and 20,000+ films. The app's database has been designed from scratch and enables speedy data loading and retrieval. This is a modified version of a class project for CS 32 (Data Structures & Algorithms) at UCLA. 
+Flix++ is a C++ based app which offers personalized movie recommendations based on the viewing history of 100,000+ users and 20,000+ films. The app's database has been designed from scratch and enables speedy data loading and retrieval. This is a modified version of a class project for CS 32 (Data Structures & Algorithms) at UCLA. 
 
 ### Key Features
 * User Profiles: Each user has a unique profile containing their full name, email, and a history of watched movies.
